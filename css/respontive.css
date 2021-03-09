@@ -1,0 +1,194 @@
+@media screen and (max-width: 1199px) {
+
+	.header-contante h1 {
+		font-size: 45px !important;
+	}
+	.header-contante p {
+		font-size: 18px !important;
+	}
+	.more {
+		width: 180px !important;
+		height: 40px !important;
+	}
+	.more p {
+		font-size: 15px !important;
+		margin-top: -11px !important;
+		margin-left: 33px !important;
+	}
+	.to-site p {
+		font-size: 18px;
+		padding: 0px 20px !important;
+		margin-top: 20px !important;
+	}
+	.to-site h6 {
+		font-size: 12px;
+		padding: 0px 20px !important;
+		margin-top: 15px !important;
+	}
+	.to-site ul {
+		margin-top: 20px !important;
+	}
+	.row-worker {
+		padding: 80px 0px !important;
+	}
+	
+}
+
+
+
+
+
+
+@media screen and (max-width: 991px) {
+
+	.header-contante h1 {
+		font-size: 35px !important;
+	}
+	.header-contante p {
+		font-size: 13px !important;
+	}
+	.more {
+		width: 150px !important;
+		height: 40px !important;
+	}
+	.more p {
+		font-size: 15px !important;
+		margin-top: -11px !important;
+		margin-left: 20px !important;
+	}
+	.worker {
+		padding: 15px 10px;
+	}
+	.to-site p {
+		text-align: center !important;
+	}
+	.to-site h6 {
+		text-align: center !important;
+	}
+	.row-worker {
+		padding: 60px 0px !important;
+	}
+	.DOWNLOAD div h1 {
+		font-size: 22px !important;
+	}
+	.DOWNLOAD div p {
+		font-size: 16px !important;
+	}
+	.more-d {
+		width: 200px !important;
+	}
+	.more-d h6 {
+		font-size: 14px !important;
+	    margin-top: 13px !important;
+	    margin-left: 45px !important;
+	}
+	.about {
+		padding-top: 80px;
+	}
+}
+
+
+
+
+
+
+@media screen and (max-width: 767px) {
+
+	.header-contante h1 {
+		font-size: 30px !important;
+	}
+	.header-contante p {
+		font-size: 13px !important;
+	}
+	.more {
+		width: 150px !important;
+		height: 40px !important;
+	}
+	.more p {
+		font-size: 13px !important;
+		margin-top: -10px !important;
+		margin-left: 27px !important;
+	}
+	.worker {
+		padding: 15px 10px;
+	}
+	.row-worker {
+		padding: 40px 0px !important;
+	}
+	.DOWNLOAD div h1 {
+		font-size: 20px !important;
+	}
+	.DOWNLOAD div p {
+		font-size: 14px !important;
+	}
+	.more-d {
+		width: 180px !important;
+	}
+	.more-d h6 {
+		font-size: 12px !important;
+	    margin-top: 13px !important;
+	    margin-left: 40px !important;
+	}
+	
+}
+
+
+
+
+
+
+@media screen and (max-width: 575px) {
+
+	.header-contante h1 {
+		font-size: 25px !important;
+	}
+	.header-contante p {
+		font-size: 11px !important;
+	}
+	.more {
+		width: 120px !important;
+		height: 35px !important;
+	}
+	.more p {
+		font-size: 10px !important;
+		margin-top: -10px !important;
+		margin-left: 25px !important;
+	}
+	.cover-fr {
+		padding: 0px 20px;
+	}
+	.worker {
+		padding: 15px 10px;
+	}
+	.row-worker {
+		padding: 40px 0px !important;
+	}
+	.DOWNLOAD div h1 {
+		font-size: 15px !important;
+	}
+	.DOWNLOAD div p {
+		font-size: 12px !important;
+	}
+	.more-d {
+		width: 150px !important;
+	}
+	.more-d h6 {
+		font-size: 10px !important;
+	    margin-top: 13px !important;
+	    margin-left: 32px !important;
+	}
+	.addriss {
+		padding-bottom: 50px;
+	}
+	.about {
+		padding-top: 50px;
+	}
+	.footer-end div p {
+		font-size: 16px !important;
+	}
+}
+
+
+
+
+
